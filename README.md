@@ -1,4 +1,4 @@
-## QuickMart---Grocceries-in-10-minutes
+# QuickMart---Grocceries-in-10-minutes
 BlinkitReal is a modern grocery and quick-commerce platform offering groceries, snacks, beverages, household essentials, and personal care products. With responsive design, smart search, cart management, and secure checkout, it delivers a fast and seamless shopping experience.
 # BlinkitReal – Quick Commerce & Grocery Delivery Platform
 
@@ -10,7 +10,6 @@ Designed for supermarkets, grocery stores, convenience stores, local delivery st
 
 > **Note:** This repository serves as a product showcase. Source code is proprietary and not publicly available.
 
----
 
 ## Core Features
 
