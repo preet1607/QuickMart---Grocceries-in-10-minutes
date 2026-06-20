@@ -1,8 +1,8 @@
-QuickMart---Grocceries-in-10-minutes
+## QuickMart---Grocceries-in-10-minutes
 BlinkitReal is a modern grocery and quick-commerce platform offering groceries, snacks, beverages, household essentials, and personal care products. With responsive design, smart search, cart management, and secure checkout, it delivers a fast and seamless shopping experience.
 # BlinkitReal – Quick Commerce & Grocery Delivery Platform
 
-Overview
+## Overview
 
 BlinkitReal is a modern quick-commerce and grocery delivery platform built for businesses that want to offer fast, convenient, and reliable online ordering experiences. Inspired by leading instant delivery services, the platform enables customers to browse products, place orders, and receive deliveries through an intuitive and mobile-friendly interface.
 
@@ -55,7 +55,7 @@ Designed for supermarkets, grocery stores, convenience stores, local delivery st
 * Estimated delivery times
 * Delivery partner management
 
----
+
 
 ## Admin Dashboard
 
@@ -82,7 +82,7 @@ Designed for supermarkets, grocery stores, convenience stores, local delivery st
 * Customer Insights
 * Business Analytics
 
----
+
 
 ## Industries Supported
 
@@ -95,7 +95,7 @@ Designed for supermarkets, grocery stores, convenience stores, local delivery st
 * Retail Chains
 * Quick-Commerce Startups
 
----
+
 
 ## Business Benefits
 
@@ -107,7 +107,7 @@ Designed for supermarkets, grocery stores, convenience stores, local delivery st
 * Reduce manual processes
 * Scale business operations efficiently
 
----
+
 
 ## Commercial Licensing
 
@@ -125,7 +125,7 @@ Includes:
 * Single Store Setup
 * Standard Support
 
----
+
 
 ### Professional Edition
 
@@ -142,7 +142,7 @@ Includes:
 * Advanced Reporting
 * Priority Support
 
----
+
 
 ### Enterprise Edition
 
@@ -160,7 +160,7 @@ Includes:
 * Dedicated Deployment
 * Enterprise Support
 
----
+
 
 ## Optional Add-ons
 
@@ -179,7 +179,7 @@ Available upon request:
 
 Pricing depends on project scope.
 
----
+
 
 ## Request a Demo
 
@@ -195,7 +195,7 @@ Please include:
 * Delivery Locations
 * Expected Daily Orders
 
----
+
 
 ## Source Code Availability
 
@@ -207,7 +207,7 @@ For licensing inquiries:
 
 📧 [preetparekh1672@gmail.com](mailto:preetparekh1672@gmail.com)
 
----
+
 
 ## License
 
@@ -219,7 +219,7 @@ This repository is intended solely for showcasing product capabilities, features
 
 Unauthorized reproduction, redistribution, or commercial use without written permission is prohibited.
 
----
+
 
 ## Status
 
